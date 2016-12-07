@@ -1,6 +1,6 @@
 # Charleston Containers
 
-![lapty logo](art/lapty/cc_medium.png)
+![lapty logo](art/lapty/cc_large.png)
 
 ---
 
